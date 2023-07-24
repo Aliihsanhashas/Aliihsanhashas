@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliihsanhashas&label=Profile%20views&color=0e75b6&style=flat" alt="aliihsanhashas" /> </p>
 
-- 🔭 I’m currently working on OOPs [Spring boot](https://github.com/Aliihsanhashas/studentApplication)
+- 🔭 I’m currently working on Spring [Spring boot](https://github.com/Aliihsanhashas/studentApplication)
 
 - 🌱 I’m currently learning Spring **Java**
 
