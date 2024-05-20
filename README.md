@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliihsanhashas&label=Profile%20views&color=0e75b6&style=flat" alt="aliihsanhashas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliihsanhashas" alt="aliihsanhashas" /></a> </p>
-
 - 🔭 I’m currently working on Spring [Spring boot](https://github.com/Aliihsanhashas/studentApplication)
 
 - 🌱 I’m currently learning Spring **Java**
