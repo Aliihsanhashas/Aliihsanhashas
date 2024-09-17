@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aliihsan Hashas</h1>
 <h3 align="center">A passionate class of CEng students from Turkey</h3>
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliihsanhashas&label=Profile%20views&color=0e75b6&style=flat" alt="aliihsanhashas" /> </p>
 
 - 🔭 I’m currently working on Spring [Spring boot](https://github.com/Aliihsanhashas/studentApplication)
 
-- 🌱 I’m currently learning Spring **Java**
+- 🌱 I’m currently learning Spring Boot **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aliihsanhashas](https://github.com/Aliihsanhashas)
 
