@@ -11,10 +11,12 @@
 
 - 📫 How to reach me **aliihsanhashas1@hotmail.com**
 
+- 📄 Know about my experiences [CV / Resume](https://github.com/Aliihsanhashas/Aliihsanhashas/blob/main/AliihsanHashasSON.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-ihsan-ha%c5%9fha%c5%9f-9bb5ab21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ihsan-ha%c5%9fha%c5%9f-9bb5ab21b/" height="30" width="40" /></a>
-<a href="https://medium.com/https://medium.com/@aliihsanhashas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@aliihsanhashas1" height="30" width="40" /></a>
+<a href="https://medium.com/@aliihsanhashas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliihsanhashas1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
