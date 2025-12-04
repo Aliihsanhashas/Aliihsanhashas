@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliihsanhashas&label=Profile%20views&color=0e75b6&style=flat" alt="aliihsanhashas" /> </p>
 
-- 🔭 I’m currently working on **.NET Core and Spring Boot projects**
+- 🔭 I’m currently working on **PHP and Javascript project**
 
 - 🌱 I’m currently learning **to be better swe**
 
-- 💬 Ask me about **C#, Java, React, Vue, .NET, Spring Boot, Docker, SQL**
+- 💬 Ask me about **C#, Java, PHP ,React, Spring Boot, Docker, SQL**
 
 - 📫 How to reach me **aliihsanhashas1@hotmail.com**
 
