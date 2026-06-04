@@ -1,27 +1,63 @@
-<h1 align="center">Hi 👋, I'm Ali Ihsan</h1>
-<h3 align="center">A Computer Engineer/Software Developer/Backend Engineer</h3>
+# Hi, I'm Ali İhsan 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aliihsanhashas&label=Profile%20views&color=0e75b6&style=flat" alt="aliihsanhashas" /> </p>
+Backend-focused Software Engineer with experience building web applications, APIs, and scalable backend services.
 
-- 🔭 I’m currently working on **PHP and Javascript project**
+I enjoy designing clean architectures, improving system reliability, and learning technologies that help teams build better software. Most of my recent work has been centered around backend development, cloud-native practices, and modern software engineering workflows.
 
-- 🌱 I’m currently learning **to be better swe**
+---
 
-- 💬 Ask me about **C#, Java, PHP ,React, Spring Boot, Docker, SQL**
+## 🚀 About Me
 
-- 📫 How to reach me **aliihsanhashas1@hotmail.com**
+* 💻 Backend Engineer focused on building maintainable and scalable systems
+* 🔧 Experienced with .NET, Java Spring Boot, PHP, PHP Slim Framework, SQL databases, and Docker
+* 🌱 Continuously improving my software architecture and system design skills
+* ☁️ Interested in cloud technologies, distributed systems, and DevOps practices
+* 🤖 Completed the Claude Partner Network Learning Path and actively use AI-assisted development workflows
+* ✍️ Occasionally write technical content and share development experiences
 
-- 📄 Know about my experiences [CV / Resume](https://github.com/Aliihsanhashas/Aliihsanhashas/blob/main/AliihsanHashasSON.pdf)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-ihsan-ha%c5%9fha%c5%9f-9bb5ab21b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-ihsan-ha%c5%9fha%c5%9f-9bb5ab21b/" height="30" width="40" /></a>
-<a href="https://medium.com/@aliihsanhashas1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aliihsanhashas1" height="30" width="40" /></a>
-</p>
+## 🛠️ Tech Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+### Backend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aliihsanhashas&show_icons=true&locale=en&layout=compact" alt="aliihsanhashas" /></p>
+`C#` `ASP.NET Core` `Java` `Spring Boot` `PHP`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aliihsanhashas&show_icons=true&locale=en" alt="aliihsanhashas" /></p>
+### Frontend
+
+`React` `Vue.js` `Svelte`
+
+### Databases
+
+`PostgreSQL` `SQL Server` `MySQL` `Oracle`
+
+### DevOps & Tools
+
+`Docker` `Git` `Azure` `Postman` `Jira` `Trello`
+
+---
+
+## 🎓 Learning & Certifications
+
+* ✅ Claude Partner Network Learning Path
+* 📚 Continuous learning in Software Architecture, System Design, and Backend Engineering
+
+---
+
+## 📫 Contact
+
+* 📧 [aliihsanhashas1@hotmail.com](mailto:aliihsanhashas1@hotmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/ali-ihsan-haşhaş-9bb5ab21b/
+* ✍️ Medium: https://medium.com/@aliihsanhashas1
+  
+---
+
+## 💡 Areas of Interest
+
+* Backend Development
+* Software Architecture
+* API Design
+* Cloud Technologies
+* Distributed Systems
+* DevOps
+* AI-Assisted Software Development
